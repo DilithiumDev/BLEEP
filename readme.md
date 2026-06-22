@@ -2,7 +2,7 @@ BLEEP (Bluetooth Low-Energy Entertainment Pad) is a DIY gamepad. It uses the [ES
 
 ## Schematic
 
-![BLEEP schematic](src/schematic/schematic.png)
+![BLEEP schematic](media/schematic.png)
 
 ## BOM
 
