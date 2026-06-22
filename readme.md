@@ -13,6 +13,13 @@ BLEEP (Bluetooth Low-Energy Entertainment Pad) is a DIY gamepad. It uses the [ES
 | Wire      | N/A      |
 | USB-C Cable | 1      |
 
+## Prerequisites
+### Arduino IDE
+Arduino IDE must be set up and configured for your particular board.
+
+### ESP32-BLE-Gamepad
+The [ESP32-BLE-GamePad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) library must be intalled and configured in Arduino IDE.
+
 ## Instructions
 
 Use the schematic above to connect buttons, ESP32-S3, and battery (optional). 
